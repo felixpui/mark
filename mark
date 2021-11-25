@@ -1,23 +1,23 @@
         obj[3] = new LatLng(22.284626759722478, 114.16005080717937);
-        marker[3] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("HK Electric Charging Station").snippet("CHAdeMO | 50kw x 1, J1772 | 74kw x 1"));
+        marker[3] = mMap.addMarker(new MarkerOptions().position(obj[3]).title("HK Electric Charging Station").snippet("CHAdeMO | 50kw x 1, J1772 | 74kw x 1"));
 
         obj[4] = new LatLng(22.27652567242935, 114.17803233688839);
-        marker[4] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 1"));
+        marker[4] = mMap.addMarker(new MarkerOptions().position(obj[4]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 1"));
 
         obj[5] = new LatLng(22.28066797351871, 114.18518364407126);
-        marker[5] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("e-charge Hong Kong Charging Station").snippet("Type 2 | 11kw x 1"));
+        marker[5] = mMap.addMarker(new MarkerOptions().position(obj[5]).title("e-charge Hong Kong Charging Station").snippet("Type 2 | 11kw x 1"));
 
         obj[6] = new LatLng(22.28173289329347, 114.17926883033242);
-        marker[6] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 21kw x 2"));
+        marker[6] = mMap.addMarker(new MarkerOptions().position(obj[6]).title("Tesla Destination Charger").snippet("Tesla | 21kw x 2"));
 
         obj[7] = new LatLng(22.276649807937723, 114.17798137002616);
-        marker[7] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 6"));
+        marker[7] = mMap.addMarker(new MarkerOptions().position(obj[7]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 6"));
 
         obj[8] = new LatLng(22.28204218499697, 114.17130758442076);
-        marker[8] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 4kw x 3"));
+        marker[8] = mMap.addMarker(new MarkerOptions().position(obj[8]).title("Tesla Destination Charger").snippet("Tesla | 4kw x 3"));
 
         obj[9] = new LatLng(22.281803920025368, 114.17508413465244);
-        marker[9] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 11kw x 12"));
+        marker[9] = mMap.addMarker(new MarkerOptions().position(obj[9]).title("Tesla Destination Charger").snippet("Tesla | 11kw x 12"));
 
         obj[10] = new LatLng(22.278150472955634, 114.17182256854325);
-        marker[10] = mMap.addMarker(new MarkerOptions().position(obj[2]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 23"));
+        marker[10] = mMap.addMarker(new MarkerOptions().position(obj[10]).title("Tesla Destination Charger").snippet("Tesla | 7kw x 23"));
